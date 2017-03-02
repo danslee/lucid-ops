@@ -5,14 +5,14 @@ title: about
 
 # About Lucid Operations
 
-My name is Daniel Lee (@dlee_io) and Lucid Operations LLC is the consulting
-entity under which I provide consulting services to my clients. In one capacity
-or another I've been working with computers, software, and systems for the
-better part of two decades now. I've had the good fortune to work with some of
-the most successful companies of our time and have learned a great deal from
-that experience. I hope to continue to provide clients with insight concerning
-their challenges and provide actionable understanding and direction to
-guidance.
+My name is Daniel Lee and Lucid Operations LLC (@LucidOperations) is the
+consulting entity under which I provide consulting services to my clients.  In
+one capacity or another I've been working with computers, software, and systems
+for the better part of two decades now. I've had the good fortune to work with
+some of the most successful companies of our time and a truly amazing set of
+engineers and architects and have learned a great deal from that experience. I
+hope to continue to provide clients with insight concerning their challenges
+and provide actionable understanding and direction to guidance.
 
 ## Lucid Operations Statement of Purpose
 
