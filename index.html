@@ -3,7 +3,9 @@ layout: default
 title: Lucid Operations
 ---
 
-Welcome to the Lucid Operations LLC home page. Go to the <a href="{% link about/index.md %}">about page</a> for an introduction.
+<p>Welcome to the Lucid Operations LLC home page. Go to the <a href="{% link about/index.md %}">about page</a> for an introduction.
+
+<hr>
 
 {% for post in paginator.posts %}
 
@@ -23,7 +25,6 @@ Welcome to the Lucid Operations LLC home page. Go to the <a href="{% link about/
 	</article>
 
 {% endfor %}
-
 
 
 {% if paginator.total_pages > 1 %}
