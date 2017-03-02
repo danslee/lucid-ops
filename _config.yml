@@ -34,3 +34,4 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - resources
+permalink: pretty

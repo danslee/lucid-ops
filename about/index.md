@@ -1,6 +1,6 @@
 ---
 layout: default
-title: About
+title: about
 ---
 
 # About Lucid Operations
@@ -56,4 +56,9 @@ My objective is to help you solve your current and future problems, preferably
 before they affect your business, by bringing to bear my years of experience
 and the experiences of my former employers.
 
-Email me at <a href="mailto:dlee@lucid-operations.com">dlee@lucid-operations.com</a> for more information.
+You can see my LinkedIn profile [here][dleeli].
+Email me at [dlee@lucid-operations.com][dleeloc]
+information.
+
+[dleeli]: https://www.linkedin.com/in/dlee271
+[dleeloc]: mailto:dlee@lucid-operations.com
