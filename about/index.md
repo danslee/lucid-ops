@@ -32,6 +32,13 @@ My interest is not in selling products or licenses but in helping your company
 understands your challenges, options, and best solutions.  Providing neutral
 unbiased solutions is our goal.
 
+## Education
+
+ - **B.S.** Mathematics and Computer Science, [Carnegie Mellon University](https://www.cmu.edu)
+ - **M.S.** Engineering-Economic Systems and Operations Research
+  (now [Management Science & Engineering](https://msande.stanford.edu)),
+  [Stanford University](https://stanford.edu)
+
 ## Experience
 
 15+ years professional experience as lead engineer/architect at
