@@ -64,7 +64,7 @@ before they affect your business, by bringing to bear my years of experience
 and the experiences of my former employers.
 
 You can see my LinkedIn profile [here][dleeli].
-Email me at [dlee@lucid-operations.com][dleeloc]
+Email me at [dlee@lucid-operations.com][dleeloc] for more information
 information.
 
 [dleeli]: https://www.linkedin.com/in/dlee271
