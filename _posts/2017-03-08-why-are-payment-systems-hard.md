@@ -29,6 +29,9 @@ This is not exhaustive, but cover the high points. Each of these sections
 could be expanded into a separate article which is something I may do in the
 future.
 
+I revised this article to add in a couple of sections on taxation and PCI
+compliance.
+
 ## Customer Expectations
 
 "My post is gone!" "My app just died!" "My picture got posted twice!" such
@@ -119,6 +122,20 @@ GAAP](https://en.wikipedia.org/wiki/Generally_accepted_accounting_principles).
 For developers, this mostly boils down to being able to answer the questions:
 "where is this money?" and "who owns this money?" This is actually good place
 to segue into my next section.
+
+[PCI DSS compliance](https://www.pcisecuritystandards.org). In a rare moment of
+cooperation, the major card companies got together to form the Payment Card
+Industry organization which maintains and publishes the Data Security
+Standards. They specify standards for the storage, transmission, and other
+handling which need to be followed when dealing with payments data. If you are
+storing any payments related data, you need to be aware and (at a minimum) will
+need to do a self assessment of your set up.
+
+Sales and VAT Tax. If you are selling any kinds of goods or services, you need
+to be aware of your tax collecting and remittance obligations. Also,
+regulations with regard to how taxes need to be displayed in receipts will vary
+by location. Also, depending on the goods you are selling, you many need to
+verify and manage sales and VAT tax exemption numbers. 
 
 ## Reporting, Accounting, and Finance
 
